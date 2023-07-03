@@ -1,0 +1,14 @@
+nibabel
+nilearn
+matplotlib
+pandas
+datalad
+jupyter
+numpy
+boutiques
+livingpark_utils
+rich
+paramiko
+scp
+ppmi_downloader @ git+https://github.com/LivingPark-MRI/ppmi-scraper.git@8db66abbdffae5e4f93cc44362d52d4cff65bc20
+livingpark_utils @ git+https://github.com/LivingPark-MRI/livingpark-utils.git@4c18c5913053981719f464867538579d9f505e3a
