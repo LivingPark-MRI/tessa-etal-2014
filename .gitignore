@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+tmp*.m
+.ppmi_config
+data/*
+image_data/
+code/batches/*.m
+install.log
+.livingpark_config
+.cache
+env
+logs
+*.log
